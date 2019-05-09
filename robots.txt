@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://miengoogha.digitalrewind.com/sitemap.xml
